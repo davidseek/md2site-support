@@ -10,4 +10,4 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 - Beta release planned for 31st of December
 
 ## Roadmap
--[] Blah
+- Add JS script injections
