@@ -11,3 +11,4 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 
 ## Roadmap
 - Add JS script injections
+- Adding Domain Marketspace, so you can just get the domain from us, and we link the DNS stuff for you.
