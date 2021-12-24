@@ -7,6 +7,7 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 
 ## Changelog
 ### 1.0.88
+- Public beta release
 - Fixed bug where two projects have been able to be created with the same name. That caused a bug due to the same `subdomain`. 
 
 ## Roadmap
