@@ -1,5 +1,7 @@
 ## Welcome
 md2site is a `markdown to static website` generator. You define the content in [markdown](https://www.markdownguide.org/basic-syntax/), select a template, and the generator creates a website from your markdown and hosts it for you. You can then either use the `.md2site.com` url or link your own domain.
+
+Watch this video to learn more
 [![](https://img.youtube.com/vi/EJFVtK-iukA/0.jpg)](https://www.youtube.com/watch?v=EJFVtK-iukA)
 
 ## Wiki
