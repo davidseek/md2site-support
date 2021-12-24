@@ -10,5 +10,6 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 - Beta release planned for 31st of December
 
 ## Roadmap
-- Add JS script injections
-- Adding Domain Marketspace, so you can just get the domain from us, and we link the DNS stuff for you.
+- Add "Made with md2site" banner to free projects to incentivice for Pro subscriptions, and to market the product
+- Integrate ability to purchase domain
+- Integrade "Script injection" feature for custom scripts / styling
