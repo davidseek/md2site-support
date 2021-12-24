@@ -6,14 +6,14 @@ md2site is a `markdown to static website` generator. You define the content in [
 ## Wiki
 In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Documentation) you can find documentation and answers to frequently asked questions. If you can't find your answer, reach out by creating a new [Issue](https://github.com/davidseek/md2site-support/issues). This helps others to track similar issues, and opens up a community spirit 🎉
 
+## Roadmap
+- Add "Made with md2site" banner to free projects to incentivice for Pro subscriptions, and to market the product
+- Integrate ability to purchase domain
+- Integrade "Script injection" feature for custom scripts / styling
+
 ## Changelog
 ### 1.0.89
 - Added demo video to landing page
 ### 1.0.88
 - Public beta release
 - Fixed bug where two projects have been able to be created with the same name. That caused a bug due to the same `subdomain`. 
-
-## Roadmap
-- Add "Made with md2site" banner to free projects to incentivice for Pro subscriptions, and to market the product
-- Integrate ability to purchase domain
-- Integrade "Script injection" feature for custom scripts / styling
