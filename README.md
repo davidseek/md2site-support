@@ -11,6 +11,8 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 - Integrade "Script injection" feature for custom scripts / styling
 
 ## Changelog
+### 1.0.92 
+- Added `JavaScript` code injection option for premium projects
 ### 1.0.91
 - Added "Made with md2site" watermark for free projects
 ### 1.0.89
