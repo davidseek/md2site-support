@@ -8,7 +8,6 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 
 ## Roadmap
 - Integrate ability to purchase domain
-- Integrade "Script injection" feature for custom scripts / styling
 
 ## Changelog
 ### 1.0.92 
