@@ -10,6 +10,8 @@ In our [Wiki](https://github.com/davidseek/md2site-support/wiki/md2site-Document
 - Integrate ability to purchase domain
 
 ## Changelog
+### 1.0.112
+- Added support for Sub Pages
 ### 1.0.100
 - Fixed responsiveness for Mobile Devices
 ### 1.0.92 
